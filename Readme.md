@@ -6,8 +6,7 @@ Progressive ui tailwind based library.
 - [Button Examples]
 - [Form Component Examples]
 - [Modal Example]
-- [NavBar Example]
-- [Text Example]
+
 
 #### You can see all the UI at
 
